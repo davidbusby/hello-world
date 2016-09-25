@@ -1,2 +1,3 @@
 # hello-world
-First repository
+
+Checking out jekyll to see what's what
